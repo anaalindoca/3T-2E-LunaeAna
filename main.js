@@ -22,5 +22,5 @@ container.appendChild (article)
 }
 
 
-criaCartao("Biologia","Qual a função da mitocondria","criar atp, para geração de energia")
-criaCartao("Matemática","Como é definido um grupo?","É um conjunto movido de uma operação onde esta é fechada no conjunto e tem algumas propriedades")
+criaCartao("Biologia","QUAL É A FUNÇÃO DA MITOCONDRIA?","CRIAR ATP, PARA A GERAÇÃO DE ENERGIA")
+criaCartao("Matemática","COMO É DEFINIDO UM GRUPO?","É UM CONJUNTO MOVIDO DE UMA OPERAÇÃO ONDE ESTÁ É FECHADA NO CONJUNTO E TEM ALGUMAS PROPRIEDADES")
